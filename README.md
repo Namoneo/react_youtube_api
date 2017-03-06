@@ -1,3 +1,5 @@
+This boiler is used for the course where I was building React app with Youtube API
+
 # ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
